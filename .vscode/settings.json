@@ -1,0 +1,5 @@
+{
+    "pasteImage.prefix": "../",
+    "pasteImage.basePath": "${projectRoot}",
+    "pasteImage.path": "${projectRoot}/assets/img"
+}
