@@ -3,6 +3,7 @@
 title : Machine Learning
 feed: show
 date : 10-08-2022
+permalink: /jst/machine-learning
 
 ---
 
