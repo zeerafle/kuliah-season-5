@@ -1,9 +1,10 @@
 ---
+
 title: Jaringan Hebb
-layout: single
 feed: show
 permalink: /jst/hebb
 date: 30-08-2022
+
 ---
 
 Jaringan Hebb untuk Pengenalan Pola.
