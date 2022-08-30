@@ -6,3 +6,4 @@ title: Jaringan Saraf Tiruan
 
 - [[Machine Learning]]
 - [[Pengantar Jaringan Saraf Tiruan]]
+- [[Hebb]]
